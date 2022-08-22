@@ -7,8 +7,7 @@
 git init
 git pull
 
-set name = IRENE_adv99
-cp -r ../FIRST_DRYRUN5/plots/ $name
+set name = UNK08-21_adv00
 
 git init
 git branch -M main
