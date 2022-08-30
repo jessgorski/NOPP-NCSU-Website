@@ -7,7 +7,7 @@
 git init
 git pull
 
-set name = UNK08-21_adv00
+set name = 8-30-22
 
 git init
 git branch -M main
