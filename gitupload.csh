@@ -7,7 +7,7 @@
 git init
 git pull
 
-set name = 8-30-22
+set name = IAN_9-25-12
 
 git init
 git branch -M main
